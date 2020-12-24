@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f7800974-a88d-42e0-8ca2-70df461137cb" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/itcast-dubbo-comsumer/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itcast-dubbo-comsumer/src/main/java/com/itheima/ConsumerApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itcast-dubbo-comsumer/src/main/java/com/itheima/controller/TestController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itcast-dubbo-comsumer/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itcast-dubbo-interface/itcast-dubbo-interface.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itcast-dubbo-interface/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itcast-dubbo-interface/src/main/java/com/itheima/service/TestService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itcast-dubbo-provider/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itcast-dubbo-provider/src/main/java/com/itheima/ProviderApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itcast-dubbo-provider/src/main/java/com/itheima/service/impl/TestServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itcast-dubbo-provider/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/taotao-common/taotao-common.iml" beforeDir="false" afterPath="$PROJECT_DIR$/taotao-common/taotao-common.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/taotao-manager-web/taotao-manager-web.iml" beforeDir="false" afterPath="$PROJECT_DIR$/taotao-manager-web/taotao-manager-web.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/taotao-manager/taotao-manager-interface/taotao-manager-interface.iml" beforeDir="false" afterPath="$PROJECT_DIR$/taotao-manager/taotao-manager-interface/taotao-manager-interface.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/taotao-manager/taotao-manager-mapper/taotao-manager-mapper.iml" beforeDir="false" afterPath="$PROJECT_DIR$/taotao-manager/taotao-manager-mapper/taotao-manager-mapper.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/taotao-manager/taotao-manager-pojo/taotao-manager-pojo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/taotao-manager/taotao-manager-pojo/taotao-manager-pojo.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/taotao-manager/taotao-manager-service/taotao-manager-service.iml" beforeDir="false" afterPath="$PROJECT_DIR$/taotao-manager/taotao-manager-service/taotao-manager-service.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/taotao-manager/taotao-manager.iml" beforeDir="false" afterPath="$PROJECT_DIR$/taotao-manager/taotao-manager.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/taotao-parent/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/taotao-parent/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/taotao-parent/taotao-parent.iml" beforeDir="false" afterPath="$PROJECT_DIR$/taotao-parent/taotao-parent.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/taotao/.idea/artifacts/taotao_common_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/taotao/.idea/artifacts/taotao_common_war_exploded.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/taotao/.idea/artifacts/taotao_manager_web_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/taotao/.idea/artifacts/taotao_manager_web_war_exploded.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/taotao/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/taotao/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/taotao/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/taotao/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/taotao/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/taotao/.idea/vcs.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\Maven\maven-dependcies" />
+        <option name="mavenHome" value="D:/Maven/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\Maven\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1m2t3QfrELlbtkPGzY87FYuPWdp" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8 (2)" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f7800974-a88d-42e0-8ca2-70df461137cb" name="Default Changelist" comment="" />
+      <created>1608703313178</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608703313178</updated>
+      <workItem from="1608703316152" duration="517000" />
+      <workItem from="1608736626242" duration="11000" />
+      <workItem from="1608736674290" duration="17000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="108" y="0" key="#Project_Structure" timestamp="1608703318778">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="108" y="0" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1608703318778" />
+    <state x="499" y="62" key="FileChooserDialogImpl" timestamp="1608703564221">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="62" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1608703564221" />
+    <state x="253" y="121" key="com.intellij.ide.util.TipDialog" timestamp="1608736675817">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="253" y="121" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1608736675817" />
+    <state x="0" y="0" key="new project wizard" timestamp="1608703705200">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="0" y="0" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1608703705200" />
+  </component>
+</project>
